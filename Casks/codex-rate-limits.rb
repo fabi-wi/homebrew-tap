@@ -9,6 +9,7 @@ cask "codex-rate-limits" do
   homepage "https://github.com/fabi-wi/codex-rate-limits"
 
   depends_on macos: ">= :sonoma"
+  depends_on arch: :arm64
 
   app "CodexRateLimits.app"
 
