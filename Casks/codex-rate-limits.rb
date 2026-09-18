@@ -1,6 +1,6 @@
 cask "codex-rate-limits" do
-  version "0.2.0"
-  sha256 "00291da125d0f35bcd6fccaff8e99d1e94340ac975e87ed1d0038823e2e458d6"
+  version "0.2.3"
+  sha256 "b61edac3733cdb39bbfd6d7f8a6875f5dd0e6f7712ad46de3dea96fb9a433494"
 
   url "https://github.com/fabi-wi/codex-rate-limits/releases/download/v#{version}/CodexRateLimits-v#{version}-macos-arm64.zip",
       verified: "github.com/fabi-wi/codex-rate-limits/"
